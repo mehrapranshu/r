@@ -1,4 +1,4 @@
-This script allows you to make a colourful volcano plot.
+This script allows you to make a colourful volcano plot using R script.
 The genes are obtained using the GEO dataset : GSE42621 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42621)
 
 Sample used: 
