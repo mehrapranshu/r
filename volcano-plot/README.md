@@ -15,4 +15,4 @@ GSM1046055	Brain BALB/c F1_irradiated male 4_tech_rep1_rep2
 GSM1046056	Brain BALB/c F1_irradiated male 5_tech_rep1_rep2
 GSM1046057	Brain BALB/c F1_irradiated male 6_tech_rep1_rep2
 
-The file genelist.txt is used for creating the plot. It contains the Gene(transcript), log2FoldChange, pvalue, padj 
+The file gene-list.txt is used for creating the plot. It contains the Gene(transcript), log2FoldChange, pvalue, padj 
